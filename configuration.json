@@ -2,22 +2,6 @@
     "CORSProxy": "https://corsproxy.io/?",
     "calenderSources": [
         {
-            "id": "feier",
-            "description": "Feiertage",
-            "cssclass": "feiertag",
-            "showDescription": false,
-            "timeless": true,
-            "icalSrc": "https://www.feiertage-oesterreich.at/content/kalender-download/force-download.php"
-        },
-        {
-            "id": "ferien",
-            "description": "Ferien",
-            "cssclass": "ferien",
-            "showDescription": false,
-            "timeless": true,
-            "icalSrc": "https://www.feiertage-oesterreich.at/content/kalender-download/force-download-school-holidays.php?region=N%C3%96"
-        },
-        {
             "id": "wiwoe",
             "description": "Wichtel & Wölflinge",
             "cssclass": "wiwoe",
