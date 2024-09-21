@@ -1,5 +1,5 @@
 {
-    "CORSProxy": "https://thingproxy.freeboard.io/fetch/",
+    "CORSProxy": "https://corsproxy.io/?",
     "calenderSources": [
         {
             "id": "wiwoe",
