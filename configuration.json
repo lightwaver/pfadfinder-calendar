@@ -1,5 +1,5 @@
 {
-    "CORSProxy": "https://corsproxy.io/?",
+    "CORSProxy": "https://corsproxy.io/?url=",
     "calenderSources": [
         {
             "id": "wiwoe",
